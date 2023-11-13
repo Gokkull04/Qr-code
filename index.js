@@ -20,4 +20,4 @@ inquirer
     } else {
       // Something else went wrong
     }
-  });
+  }); 
